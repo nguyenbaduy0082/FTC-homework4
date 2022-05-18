@@ -1,0 +1,64 @@
+.logo {
+    text-align: center;
+    background-color:aqua;
+    height:50px;
+    margin-bottom: -12px;
+}
+.logo h3 {
+    line-height: 50px;
+}
+.Menu {
+    text-align: center;
+    background-color: aqua;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.Menu h3 {
+    line-height: 40px;
+}
+.sections {
+    height: 250px;
+    margin-bottom: -10px;
+}
+.introduction {
+    float: left;
+    background-color: blue;
+    height: 100%;
+    width: 49%;
+    text-align: center;
+    line-height: 200px;
+}
+.introduction1 {
+    float: right;
+    background-color: blue;
+    height: 49%;
+    width: 50%;
+}
+.introduction1 h3 {
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+}
+.introduction2 {
+    float: right;
+    background-color:blue ;
+    height: 50%;
+    width: 50%;
+    margin-top: 2px;
+}
+.introduction2 h3 {
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+}
+.sections2 {
+    height: 100px;
+    text-align: center;
+    background-color: yellow;
+    line-height: 100px;
+}
+.footer {
+    height: 50px;
+    text-align: center;
+    background-color: brown;
+    margin-top: 5px;
+    line-height: 50px;
+}
